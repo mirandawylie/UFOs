@@ -9,7 +9,7 @@ Are aliens trying to contact us, or do they want to be left alone? Through this 
 
 ## Results
 ### Searching for the answers
-A skeptic can't deny the data! In the provided filter search fields, you can search by one or all criteria. Following are examples of searching by just one criteria.
+A skeptic can't deny the data! On the UFO Sighting webpage, you can use the various filter search boxes to search by one or all criteria (date, city, state, country and shape). Following are examples of searching by just one of the five criteria.
 
 * Searching by date, showing results for 1/3/201
 ![UFO_searchby_date.png](images/UFO_searchby_date.png)
@@ -29,6 +29,6 @@ For brevity I've only shared these four images, but once you start filtering sea
 ### UFO sightings: to investigate or leave alone?
 Not everyone is ready to celebrate UFO Sightings data. Local CEO and vocal anti-alien activist V. Isualize reached out to our reporters to go on record as firmly opposed to any attempts to provide access to this data. "If there are aliens, they certainly would like to be left alone," she stated, before directing us to the Leave Aliens Alone (LAA) community engagement initiative she founded and funds.
 
-A drawback to creating the UFO Sightings website is the controversy. For every UFO enthusiast there is a skeptic and another who wants to let this potential life form exist without disruption. 
+A drawback to creating the UFO Sightings website is the controversy. For every UFO enthusiast there is a skeptic and another person who wants to let this potential life form exist without disruption. 
 
-Two additional recommendations for further development on UFO sighting webpage development are gathering more data and adding supporting articles and research. To increase the data set, I would consider adding a form to the webpage for people to add their own findings. Additionally, expanding the webpage to scrape the latest articles from popular UFO websites would substantiate the UFO Sightings as the place to go to debate UFO sightings: fact or fancy?
+Two additional recommendations for further development on UFO sighting webpage development are gathering more data and adding supporting articles and research. To increase the data set, I would consider adding a form to the webpage for people to add their own findings. Additionally, expanding the webpage to scrape the latest articles from popular UFO websites would substantiate the UFO Sightings webpage as the place to go to debate UFO sightings: fact or fancy?
